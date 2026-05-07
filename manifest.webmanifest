@@ -1,0 +1,12 @@
+{
+  "name": "Naylea y CarlaF - Copy",
+  "short_name": "Naylea y CarlaF - Copy",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
